@@ -1,1 +1,1 @@
-# GitExercise
+"Hello, Git!" 
